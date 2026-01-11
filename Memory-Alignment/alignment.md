@@ -18,6 +18,7 @@ When we reference a memory address, it seems like the CPU fetches exactly the da
 
 
 ##### Rough idea of memory operations in a CPU
+![Diagram](Untitled.png)
 
 
 
